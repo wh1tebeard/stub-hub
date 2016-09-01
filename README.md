@@ -1,0 +1,2 @@
+# stub-hub
+Communication hub
